@@ -3,8 +3,8 @@
 
 _By Deepa Mahidhara_
 
-Aircrafts have maintenance issues that are identified and written up as maintenance logs during various stages of the operations.These open logs need to be addressed by the maintenance operations team to keep the aircraft in service.
-Some of the maintenance logs are addressed during daily operations and others are deferred to be addressed at a later time during nightly maintenance. Technicians review these logs to identify the action needed -  this is currently highly dependent on the experience of a technician, and the manual process of referring to a maintenance manual.
+Aircrafts have maintenance issues that are identified and written up as maintenance logs during various stages of the operations. These open logs need to be addressed by the maintenance operations team to keep the aircraft in service.
+Some of the maintenance logs are addressed during daily operations and others are deferred to be addressed at a later time during nightly maintenance. Technicians review these logs to identify the action needed -  this is currently highly dependent on the experience of a technician, and the manual process of referring to a maintenance manual.
 
 PROBLEM STATEMENT
 Build a Machine Learning model to:
